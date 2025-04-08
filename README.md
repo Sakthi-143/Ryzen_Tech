@@ -1,5 +1,2 @@
 
-
-
-
 # Ryzen_Tech
